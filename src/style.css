@@ -1,0 +1,13 @@
+.card {
+    width: 300px;
+    margin: 30px;
+    position:center;
+}
+
+.navbar-brand {
+    margin: 30px;
+}
+
+.form-inline {
+    align-content:flex-end;
+}
